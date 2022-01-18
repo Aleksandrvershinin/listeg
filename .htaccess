@@ -1,0 +1,5 @@
+php_value error_reporting -1
+
+php_value display_errors on
+php_value session.gc_maxlifetime 72000
+php_value session.cookie_lifetime 72000
